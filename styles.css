@@ -148,3 +148,51 @@ nav ul li a:hover {
     border-radius: 10px;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3); /* Soft shadow */
 }
+/* Styling the services section */
+.services-section {
+    padding: 100px 20px;
+    background-color: #F8F9FA; /* Light gray background color */
+    color: #333333; /* Dark gray text color */
+}
+
+/* Styling the section title */
+.section-title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+/* Styling the services container */
+.services-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+/* Styling individual services */
+.service {
+    max-width: 300px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+/* Styling service icons */
+.service-icon {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+}
+
+/* Styling service titles */
+.service-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+/* Styling service descriptions */
+.service-description {
+    font-size: 18px;
+    line-height: 1.5;
+}
